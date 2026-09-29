@@ -1,0 +1,7 @@
+interface:
+  display_name: "Windows UI Inspector"
+  short_description: "Analyze Windows controls and child dialogs safely"
+  default_prompt: "Use $windows-ui-inspector to analyze a Windows desktop application and produce reusable control maps."
+policy:
+  allow_implicit_invocation: true
+
